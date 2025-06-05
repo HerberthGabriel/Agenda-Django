@@ -4,6 +4,9 @@
 *.pyc
 __pycache__
 db.sqlite3
+static/
+media/
+project/local_settings.py
 
 # Backup files #
 *.bak
@@ -97,7 +100,7 @@ celerybeat-schedule.*
 
 # Environments
 .env
-.venv
+.venv312
 env/
 venv/
 ENV/
